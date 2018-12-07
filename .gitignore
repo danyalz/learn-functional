@@ -1,0 +1,14 @@
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+build/
+[Bb]in/
+[Oo]bj/
+target/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+.idea
