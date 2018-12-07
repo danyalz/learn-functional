@@ -6,6 +6,7 @@ build/
 [Bb]in/
 [Oo]bj/
 target/
+out/
 
 # Scala-IDE specific
 .scala_dependencies
